@@ -1,0 +1,5 @@
+image: ubuntu
+build_script:
+    - sudo mv $RESOURCE/* .
+    - chmod +x demo
+run: ./demo 
