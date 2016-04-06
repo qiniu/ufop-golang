@@ -10,4 +10,4 @@ golang语言的`ufop`示例程序。
 
 最终这个demo的文件处理结果是输出`Hello World!`以及文件mime type信息。
 
-更多关于`ufop`的制作使用方式请访问 [ufop_完全操作指南](http://ztest.qiniudn.com/ufop_%E5%AE%8C%E5%85%A8%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97v0.2.pdf)
+更多关于`ufop`的制作使用方式请访问 [ufop_完全操作指南](http://developer.qiniu.com/article/dora/ufop/ufop-fast.html)
